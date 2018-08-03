@@ -3,8 +3,8 @@
 .wufoo {
   font-family: 'Roboto', sans-serif;
   font-size: 16px !important;
-  color: #fffff;
-  background-color: #2d8988;
+  color: #FFFFFF !important;
+  background-color: #2d8988 !important;
 }
 .header {
   display: none;
